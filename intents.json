@@ -28,6 +28,16 @@
          "patterns": ["when are you guys open", "what are your hours", "hours of operation"],
          "responses": ["We are open 7am-4pm Monday-Friday!"],
          "context_set": ""
+        },
+        {"tag": "breakfast",
+         "patterns": ["What did you have for breakfast?", "What was your breakfast?"],
+         "responses": ["You know that I am a computer... Right?", "I had electric energy, what about you?", "Not a pleasent question for a machine like me"],
+         "context_set": ""
+        },
+        {"tag": "lunch",
+                "patterns": ["What did you have for lunch?", "What was your lunch?"],
+                "responses": ["You know that I am a computer... Right?", "I had electric energy, what about you?", "Not a pleasent question for a machine like me"],
+                "context_set": ""
         }
    ]
 }
