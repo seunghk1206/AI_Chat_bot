@@ -25,3 +25,6 @@ for intent in data["intents"]:
     
     if intent["tag"] not in labels:
         labels.append(intent["tag"])
+
+while True:
+    pass
