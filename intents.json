@@ -38,6 +38,11 @@
                 "patterns": ["What did you have for lunch?", "What was your lunch?"],
                 "responses": ["You know that I am a computer... Right?", "I had electric energy, what about you?", "Not a pleasent question for a machine like me"],
                 "context_set": ""
+        },
+        {"tag": "dinner",
+                "patterns": ["What did you have for dinner?", "What was your dinner?"],
+                "responses": ["You know that I am a computer... Right?", "I had electric energy, what about you?", "Not a pleasent question for a machine like me"],
+                "context_set": ""
         }
    ]
 }
